@@ -1,0 +1,22 @@
+{
+  "name": "Romance of the Three Kingdoms",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "三國志演義",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/romance-of-the-three-kingdoms/master/assets",
+  "book_id": 1064,
+  "book_url": "https://bubblin.io/book/romance-of-the-three-kingdoms-by-guanzhong-luo"
+}
