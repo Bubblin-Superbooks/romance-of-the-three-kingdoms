@@ -64,7 +64,7 @@ a:active {
 }
 
 p {
-  text-indent: 5vw;
+  text-indent: 0vw;
   margin: 0 0 0 0;
 }
 
@@ -258,7 +258,7 @@ p.no-indent {
 }
 
 p.stretch-last-line {
-  text-align-last: justify;
+  /* text-align-last: justify; */
   /* Not supported on Safari */
 }
 
